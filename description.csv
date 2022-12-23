@@ -1,0 +1,17 @@
+﻿var_name,description
+ranking_of_movie,Thứ tự xếp hạng của phim
+movie_name,Tên phim
+year,Năm phát hành
+certificate,Chứng chỉ của phim
+runtime,Thời lượng phim ( phút )
+genre,Thể loại phim
+rating,Điểm IMDb được tính theo thang điểm 10
+metascore,"Là bộ điểm số của Metacritic, với thang điểm là 100"
+detail_about_movie,Mô tả về bộ phim
+director,Tên đạo diễn
+actor_1,Tên diễn viên thứ nhất
+actor_2,Tên diễn viên thứ hai
+actor_3,Tên diễn viên thứ ba
+votes,Số lượng đánh giá
+gross_collection,Tổng doanh thu của phim ( triệu $ )
+evaluated,"Đánh giá độ hay của phim ( Bad, Medium, Good, Very Good )"
